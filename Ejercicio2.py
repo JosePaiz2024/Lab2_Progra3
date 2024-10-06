@@ -26,9 +26,3 @@ plt.grid(True)
 
 # Mostrar el gráfico
 plt.show()
-
-"""ENLACE: https://www.kaggle.com/datasets/kaggle/world-development-indicators?select=Indicators.csv"""
-
-"""Este ejercicio toma datos económicos de varios países, los filtra para obtener información específica sobre el PIB (Producto Interno Bruto),
- y luego crea un gráfico de líneas que muestra cómo ha cambiado el PIB de estos países a lo largo del tiempo. 
- Es una herramienta útil para visualizar y comparar el crecimiento económico entre diferentes países."""

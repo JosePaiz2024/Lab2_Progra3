@@ -42,9 +42,3 @@ plt.tight_layout()
 
 # Mostrar el gráfico
 plt.show()
-
-"""ENLACE: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv"""
-
-"""Este ejercicio analiza un conjunto de datos de películas, identifica los actores que aparecen con más frecuencia, 
-y crea un gráfico de barras que muestra los 10 actores que aparecen en más películas. Es una herramienta útil para
- visualizar qué actores están más presentes en este conjunto de datos de películas."""
