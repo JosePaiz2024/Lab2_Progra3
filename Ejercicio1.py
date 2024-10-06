@@ -29,9 +29,12 @@ actores_ordenados = sorted(actores_count.items(), key=lambda x: x[1], reverse=Tr
 actores = [x[0] for x in actores_ordenados[:10]]  # Top 10 actores
 cantidades = [x[1] for x in actores_ordenados[:10]]
 
+# Colores
+colores = ["#add8e6", "#d8bfd8", "#228f3e", "#bf4b72", "#e6e6fa", "#ffdab9", "#fffacd", "#98ff98", "#b0e0e6", "#dda0dd"]
+
 # Crear el gráfico de barras
 plt.figure(figsize=(12, 6))
-plt.bar(actores, cantidades)
+plt.bar(actores, cantidades, color=colores)
 
 # Personalizar el gráfico
 plt.title('Los 10 Actores que Aparecen en Más Películas')
