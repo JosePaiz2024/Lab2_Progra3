@@ -3,3 +3,4 @@ Repositorio de graficas
 
 El archivo de Innovator.csv de la grafica de linea no se pudo subir debido a que pesaba demasiado, no se si podria descargar el archivo y agregarlo a la carpeta. 
 Espero no haya problema
+# https://www.kaggle.com/datasets/kaggle/world-development-indicators?select=Indicators.csv
